@@ -1,2 +1,2 @@
 # snowman
-HML picture of Snowman
+HTML picture of Snowman
